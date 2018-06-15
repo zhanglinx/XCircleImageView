@@ -31,6 +31,21 @@ namespace XCircleImageView
 		public partial class Attribute
 		{
 			
+			// aapt resource value: 0x7f010001
+			public const int civ_border_color = 2130771969;
+			
+			// aapt resource value: 0x7f010002
+			public const int civ_border_overlay = 2130771970;
+			
+			// aapt resource value: 0x7f010000
+			public const int civ_border_width = 2130771968;
+			
+			// aapt resource value: 0x7f010004
+			public const int civ_circle_background_color = 2130771972;
+			
+			// aapt resource value: 0x7f010003
+			public const int civ_fill_color = 2130771971;
+			
 			static Attribute()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -53,6 +68,22 @@ namespace XCircleImageView
 			}
 			
 			private Drawable()
+			{
+			}
+		}
+		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f050000
+			public const int civ = 2131034112;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
 			{
 			}
 		}
@@ -88,6 +119,41 @@ namespace XCircleImageView
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Styleable
+		{
+			
+			public static int[] CircleImageView = new int[] {
+					2130771968,
+					2130771969,
+					2130771970,
+					2130771971,
+					2130771972};
+			
+			// aapt resource value: 1
+			public const int CircleImageView_civ_border_color = 1;
+			
+			// aapt resource value: 2
+			public const int CircleImageView_civ_border_overlay = 2;
+			
+			// aapt resource value: 0
+			public const int CircleImageView_civ_border_width = 0;
+			
+			// aapt resource value: 4
+			public const int CircleImageView_civ_circle_background_color = 4;
+			
+			// aapt resource value: 3
+			public const int CircleImageView_civ_fill_color = 3;
+			
+			static Styleable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Styleable()
 			{
 			}
 		}
