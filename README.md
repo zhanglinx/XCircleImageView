@@ -1,6 +1,7 @@
 xamarin Android 圆角图片
 
-results the following
+results the following  
+
  ![image](https://github.com/zhanglinx/XCircleImageView/blob/master/XCircleImageView/screen/my.png)
  
   <com.zhanglinx.xcircleimageview.XCircleImageView
