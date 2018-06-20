@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+     <id>XCircleImageView</id>
+    <version>1.0.0.0</version>
+    <title>XCircleImageView</title>
+    <authors>zhanglin</authors>
+    <owners>zhanglin</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/zhanglinx/XCircleImageView</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$xamarin android circleImageView$</description>
+    <releaseNotes>first release xamarin android circleImage view has all imageview property
+https://github.com/zhanglinx/XCircleImageView</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>xamarina android circleImageView</tags>
+  </metadata>
+</package>
